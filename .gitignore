@@ -1,0 +1,12 @@
+**/.DS_Store
+
+guide/
+
+.cache/
+
+site/
+
+.vscode/
+.idea/
+
+.venv/
